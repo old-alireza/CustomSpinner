@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exersices</string>
+
+    <string-array name="number">
+
+        <item>iran</item>
+        <item>iraq</item>
+        <item>usa</item>
+        <item>germany</item>
+        <item>portugal</item>
+        <item>mexico</item>
+    </string-array>
+</resources>
